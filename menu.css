@@ -3,8 +3,8 @@ body {
   background-repeat: repeat;
   background-position: center center;
   background-attachment: fixed;
-  background-size: 200%;
-  font-family: terminus, monospace;
+  background-size: 300%;
+  font-family: arial, monospace;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -22,6 +22,13 @@ h1 {
 h3 {
   color: white;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+}
+a {
+  text-decoration: none;
+  color: #00b3ff;
 }
 .imgcenter {
   display: block;

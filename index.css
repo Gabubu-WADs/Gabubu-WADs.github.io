@@ -3,10 +3,14 @@ body {
   background-repeat: repeat;
   background-position: center center;
   background-attachment: fixed;
-  background-size: 200%;
-  font-family: terminus, monospace;
+  background-size: 300%;
+  font-family: arial, monospace;
 }
 h1 {
+  text-align: center;
+  color: white;
+}
+h2 {
   text-align: center;
   color: white;
 }
@@ -25,7 +29,7 @@ h3 {
   margin-left: auto;
   margin-right: auto;
   text-align-all: center;
-  height: 35px;
-  width: 350px;
+  height: 30px;
+  width: 330px;
   background-color: #001aff;
 }
